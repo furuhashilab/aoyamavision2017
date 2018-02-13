@@ -44,5 +44,9 @@ AOYAMA VISION Crisis Mapping 公式WEBサイト
 ```
 
 ## 元ファイル
+* PDFファイル
+https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/AOYAMAVISIONcrisismappingConference2018pressrelease_high.pdf
 
+* Pagesファイル
+https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/AOYAMAVISIONcrisismappingConference2018pressrelease.pages
 
