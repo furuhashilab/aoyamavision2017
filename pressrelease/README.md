@@ -49,9 +49,12 @@ https://www.u-presscenter.jp/index.html#tab1
 
 ## 大学広報チェック済み原稿
 
+* [PDFファイル](https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/%E5%BA%83%E5%A0%B1%E4%BF%AE%E6%AD%A3%E7%89%88.pdf)
+
+* [Word.docxファイル](https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/%E6%9C%80%E6%96%B0%E5%8E%9F%E7%A8%BF%EF%BC%BF%E5%A4%A7%E5%AD%A6%E3%83%95%E3%82%9A%E3%83%AC%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_AOYAMAVISIONCrisisMappingConference2018.docx)
 
 
-## 元ファイル
+## 古橋作成元ファイル
 * PDFファイル
 https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/AOYAMAVISIONcrisismappingConference2018pressrelease_high.pdf
 
