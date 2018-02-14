@@ -43,6 +43,14 @@ http://www.aoyama.ac.jp/info/event/2017/02502/
 AOYAMA VISION Crisis Mapping 公式WEBサイト
 ```
 
+## 大学プレスセンター
+https://www.u-presscenter.jp/index.html#tab1
+
+
+## 大学広報チェック済み原稿
+
+
+
 ## 元ファイル
 * PDFファイル
 https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/AOYAMAVISIONcrisismappingConference2018pressrelease_high.pdf
