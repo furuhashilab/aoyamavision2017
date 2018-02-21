@@ -1,6 +1,10 @@
 # aoyamavision2017
 AOYAMA VISION 2017 クライシスマッピング プロジェクト用リポジトリ
 
+* カンファレンス用Project
+https://github.com/furuhashilab/aoyamavision2017/projects/1
+
+
 <img width="1090" alt="plan1" src="https://user-images.githubusercontent.com/416977/35314261-5298e6cc-0108-11e8-8a49-886035876a77.png">
 
 * [各作業状況](https://github.com/furuhashilab/aoyamavision2017/issues)
