@@ -5,7 +5,8 @@ AOYAMA VISION 2017 クライシスマッピング プロジェクト用リポジ
 https://github.com/furuhashilab/aoyamavision2017/projects/1
 
 
-<img width="1090" alt="plan1" src="https://user-images.githubusercontent.com/416977/35314261-5298e6cc-0108-11e8-8a49-886035876a77.png">
+<img width="1061" alt="plan2" src="https://user-images.githubusercontent.com/416977/35314260-52756c88-0108-11e8-89ed-07ffad1a0a95.png">
+
 
 
 ![sotm2017aizuwakamatsu_groupphoto](https://user-images.githubusercontent.com/416977/37636640-92bfd90e-2c46-11e8-9e39-11e069e4db8f.jpg)
