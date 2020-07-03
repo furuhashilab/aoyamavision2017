@@ -1,3 +1,5 @@
+<img width="800" alt="plan2" src="https://user-images.githubusercontent.com/416977/35314260-52756c88-0108-11e8-89ed-07ffad1a0a95.png">
+
 # AOYAMA VISION CrisisMapping
 http://crisismapping.aoyamavision.com/
 
@@ -11,9 +13,6 @@ http://crisismapping.aoyamavision.com/
 
 * カンファレンス用Project
 https://github.com/furuhashilab/aoyamavision2017/projects/1
-
-
-<img width="1061" alt="plan2" src="https://user-images.githubusercontent.com/416977/35314260-52756c88-0108-11e8-89ed-07ffad1a0a95.png">
 
 
 
