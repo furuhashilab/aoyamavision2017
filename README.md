@@ -1,5 +1,13 @@
-# aoyamavision2017
-AOYAMA VISION 2017 クライシスマッピング プロジェクト用リポジトリ
+# AOYAMA VISION CrisisMapping
+http://crisismapping.aoyamavision.com/
+
+
+
+# 活動報告書
+* [2018年](https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/DRONEBIRD%20annual-report_2018-03-06-ahigh.pdf)
+* [2019年](https://github.com/furuhashilab/aoyamavision2017/blob/master/pressrelease/report_20200401.pdf)
+
+---
 
 * カンファレンス用Project
 https://github.com/furuhashilab/aoyamavision2017/projects/1
