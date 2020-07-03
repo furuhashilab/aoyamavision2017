@@ -15,13 +15,10 @@ http://crisismapping.aoyamavision.com/
 https://github.com/furuhashilab/aoyamavision2017/projects/1
 
 
-
 ![sotm2017aizuwakamatsu_groupphoto](https://user-images.githubusercontent.com/416977/37636640-92bfd90e-2c46-11e8-9e39-11e069e4db8f.jpg)
 Photo: State of the Map 2017 Aizuwakamatsu Group Photo
 
 ---
-
-* [各作業状況](https://github.com/furuhashilab/aoyamavision2017/issues)
 
 
 ![workspace_f206](https://user-images.githubusercontent.com/416977/32482193-e7e4665a-c3d9-11e7-9f52-16fe0508814a.JPG)
